@@ -1,4 +1,4 @@
-<h1 align="center">Hola!! 👋, Soy Matias</h1>
+<h1 align="center">Hola!! 👋, soy Matias</h1>
 <h3 align="center">Un desarrollador web de Rosario, Santa Fe</h3>
 
 - 🔭 Actualmente estoy trabajando en **20 proyectos de Udemy**
@@ -11,7 +11,7 @@
 
 - 💬 Suelo manejarme en entornos de: **Javascript, React, Sequelize, Redux, Node.js PostreSQL, MySQL, CSS, Tailwind**
 
-- 📫 Si queres contactarme: **ramallomatiasg@gmail.com**
+- 📫 Si buscas contactarme podes hacerlo a: **ramallomatiasg@gmail.com**
 
 <h3 align="left">Contacta conmigo:</h3>
 <p align="left">
