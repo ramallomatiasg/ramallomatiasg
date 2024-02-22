@@ -1,7 +1,7 @@
 <h1 align="center">Hola!! 👋, soy Matias</h1>
 <h3 align="center">Un desarrollador web de Rosario, Santa Fe</h3>
 
-- 🔭 Actualmente estoy trabajando en **20 proyectos de Udemy**
+- 🔭 Actualmente estoy trabajando en **20 proyectos Javascript de Udemy**
 
 - 🌱 Actualmente estoy aprendiendo **Typescript autodidacta**
 
